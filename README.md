@@ -239,4 +239,4 @@ Este proyecto demuestra:
 
 ---
 
-**Desarrollado con ❤️ por pyrodex*
+**Desarrollado con ❤️ por pyrodex**
